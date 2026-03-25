@@ -9,8 +9,6 @@ A full end-to-end fraud detection analysis completed as part of a Stage 2 Data S
 ```
 ├── Submission_Notebook.ipynb          # Full analysis notebook
 ├── Hamza Ahmed - Fraud Detection Report.pdf  # Written report
-├── Ravelin Presentation FINAL.pptx    # Slide deck
-├── task_fraud_rate.csv                # Dataset (10,800 transactions)
 ├── requirements.txt                   # Dependencies
 └── diagrams/                          # Supporting visuals
 ```
