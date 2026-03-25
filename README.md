@@ -94,5 +94,5 @@ The new model scores higher on both ROC-AUC and PR-AUC. Crucially, the higher bl
 ## Author
 
 **Hamza Ahmed** — Data Scientist
-[LinkedIn](https://www.linkedin.com/in/hamza-ahmed) | [GitHub](https://github.com/hamza-ahmed)
+[LinkedIn](www.linkedin.com/in/hamzaahmed0196) | [GitHub](https://github.com/Hamza-Ahmed96)
 # Fraud-Detection-and-Machine-Learning-Evaluation
