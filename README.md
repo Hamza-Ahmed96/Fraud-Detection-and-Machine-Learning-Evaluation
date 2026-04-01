@@ -1,6 +1,6 @@
 # Fraud Detection — Ravelin Data Science Code Test
 
-A full end-to-end fraud detection analysis completed as part of a Stage 2 Data Scientist interview at Ravelin. The project covers exploratory data analysis, feature importance, rule-based fraud detection, and ML model comparison — with a focus on actionable, client-ready outputs.
+A full end-to-end fraud detection analysis. The project covers exploratory data analysis, feature importance, rule-based fraud detection, and ML model comparison — with a focus on actionable, client-ready outputs.
 
 ---
 
